@@ -1,5 +1,20 @@
 # Eixalde In Space
 
-This is my personal website, with information about me, my achievements and random thoughts about space and programming. Still WIP.
+Le repository dédié à mon site Web, Eixalde in Space. Pour l'instant toujours un WIP, j'espère ajouter davantage de pages et de contenu au fur et à mesure.
 
-Done based on [Pelican](https://getpelican.com/) with the help of [pymaldebaran](https://github.com/pymaldebaran).
+Réalisé à partir de [Pelican](https://getpelican.com/) sur les conseils de [pymaldebaran](https://github.com/pymaldebaran).
+
+## TODO
+
+### Nouvelles fonctionnalités
+
+- [ ] une intégration de mon projet Exo3D comme démo interactive au sein du site
+- [ ] une version en anglais
+- [ ] un peu de customisation du site
+
+### À améliorer
+
+- [ ] aérer le "à propos" avec des images
+- [ ] séparer le "à propos" avec une section "projets" ?
+- [ ] compléter le README
+- [ ] mettre le site en ligne
