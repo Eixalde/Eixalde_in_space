@@ -15,6 +15,7 @@ Réalisé à partir de [Pelican](https://getpelican.com/) sur les conseils de [p
 ### À améliorer
 
 - [ ] aérer le "à propos" avec des images
+- [ ] ajouter des illustrations pour "mes projets"
 - [x] séparer le "à propos" avec une section "projets" ?
 - [ ] compléter le README
 - [ ] mettre le site en ligne
